@@ -140,3 +140,6 @@ CORS_ALLOW_METHODS = [
 CORS_ALLOW_HEADERS = [
     '*',
 ]
+
+# Add the codespace Django REST API endpoint suffix
+CODESPACE_API_SUFFIX = "-8000.app.github.dev"
